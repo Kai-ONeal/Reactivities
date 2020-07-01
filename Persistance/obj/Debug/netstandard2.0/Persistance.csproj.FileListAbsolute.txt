@@ -1,0 +1,12 @@
+/Users/kaioneal/Desktop/Reactivities/Persistance/bin/Debug/netstandard2.0/Persistance.deps.json
+/Users/kaioneal/Desktop/Reactivities/Persistance/bin/Debug/netstandard2.0/Persistance.dll
+/Users/kaioneal/Desktop/Reactivities/Persistance/bin/Debug/netstandard2.0/Persistance.pdb
+/Users/kaioneal/Desktop/Reactivities/Persistance/bin/Debug/netstandard2.0/Domain.dll
+/Users/kaioneal/Desktop/Reactivities/Persistance/bin/Debug/netstandard2.0/Domain.pdb
+/Users/kaioneal/Desktop/Reactivities/Persistance/obj/Debug/netstandard2.0/Persistance.csprojAssemblyReference.cache
+/Users/kaioneal/Desktop/Reactivities/Persistance/obj/Debug/netstandard2.0/Persistance.AssemblyInfoInputs.cache
+/Users/kaioneal/Desktop/Reactivities/Persistance/obj/Debug/netstandard2.0/Persistance.AssemblyInfo.cs
+/Users/kaioneal/Desktop/Reactivities/Persistance/obj/Debug/netstandard2.0/Persistance.csproj.CoreCompileInputs.cache
+/Users/kaioneal/Desktop/Reactivities/Persistance/obj/Debug/netstandard2.0/Persistance.csproj.CopyComplete
+/Users/kaioneal/Desktop/Reactivities/Persistance/obj/Debug/netstandard2.0/Persistance.dll
+/Users/kaioneal/Desktop/Reactivities/Persistance/obj/Debug/netstandard2.0/Persistance.pdb
